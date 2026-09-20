@@ -1,68 +1,34 @@
-# Dipti Singh Portfolio
+# 👀 you found the repo
 
-## Put these files in `public/`
+Hi.
 
-### Profile
-- `profile.jpg`
+I make memes, write things people screenshot,
+and occasionally convince the internet to stop scrolling.
 
-### Selected Work
+This repository is basically the behind-the-scenes
+of my little corner of the internet.
 
-Selected work is displayed as the media itself; there are no titles/descriptions underneath the pieces.
-- `meme-premchand.jpg`
-- `meme-aqua.jpg`
-- `meme-papa.jpg`
-- `original-career-pressure.jpg`
-- `campaign-jurm.jpg`
-- `campaign-sister-phone.jpg`
-- `original-andaman.jpg`
+### what you'll find here
 
-### Video Reel
-- `content-reel.mp4`
-- `reel-poster.jpg` (optional poster image for the video)
+- memes that probably shouldn't have worked
+- posts that somehow did
+- internet trends I definitely spent too much time researching
+- content made for brands, pages & campaigns
+- questionable amounts of Canva
+- and this website ✨
 
-### Featured content screenshots
-- `featured-tumblr.jpg`
-- `featured-scoopwhoop.jpg`
-- `featured-borecure.jpg`
-- `featured-desicorporates.jpg`
-- `featured-rvcj.jpg`
+No, I don't know what most of the code does.
 
-### Featured company/page logos
-These are optional. If you add them, they appear as a logo badge over the featured image:
-- `logo-tumblr.png`
-- `logo-scoopwhoop.png`
-- `logo-borecure.png`
-- `logo-desicorporates.png`
-- `logo-rvcj.png`
+Yes, I know when the content is funny.
 
-If a logo file is not present, the site automatically shows a small `... LOGO` placeholder instead.
+That's the important part.
 
-## Folder structure
+---
 
-dipti-portfolio/
-├── index.html
-├── style.css
-├── script.js
-└── public/
-    ├── profile.jpg
-    ├── meme-premchand.jpg
-    ├── meme-aqua.jpg
-    ├── meme-papa.jpg
-    ├── original-career-pressure.jpg
-    ├── campaign-jurm.jpg
-    ├── campaign-sister-phone.jpg
-    ├── original-andaman.jpg
-    ├── content-reel.mp4
-    ├── reel-poster.jpg
-    ├── featured-tumblr.jpg
-    ├── featured-scoopwhoop.jpg
-    ├── featured-borecure.jpg
-    ├── featured-desicorporates.jpg
-    ├── featured-rvcj.jpg
-    ├── logo-tumblr.png
-    ├── logo-scoopwhoop.png
-    ├── logo-borecure.png
-    ├── logo-desicorporates.png
-    └── logo-rvcj.png
+**made by Dipti Singh**  
+Content Creator · Meme Maker · Internet Professional™
 
-No framework or build step is required. Open `index.html` directly.
+> if you're here from the website, hi 👋  
+> if you're here because you saw a meme, even better.
+
+⭐ Now go scroll. You know you want to.
