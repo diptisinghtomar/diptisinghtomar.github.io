@@ -41,6 +41,7 @@ export const featuredBrands = [
     logo: "logo-desicorporates.jpg",
     posts: [
       { id: "desicorporates-post-1", type: "image", media: "featured-desicorporates.jpg", alt: "DesiCorporates feature", url: "#TODO" },
+      { id: "desicorporates-post-2", type: "image", media: "dc-2.jpg", alt: "DesiCorporates feature", url: "#TODO" },
     ],
   },
   {
