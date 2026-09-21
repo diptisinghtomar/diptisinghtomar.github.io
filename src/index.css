@@ -1,0 +1,21 @@
+@import url("https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap");
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html { scroll-behavior: smooth; }
+  body { @apply overflow-x-hidden bg-site font-sans text-primary; }
+  a { @apply text-inherit no-underline; }
+  button { font: inherit; }
+}
+
+@layer components {
+  .page-width { @apply mx-auto w-full max-w-site px-[22px] lg:px-[42px]; }
+  .section { @apply page-width py-[100px] lg:py-[150px]; }
+  .section-label { @apply mb-12 text-[11px] tracking-[2px] text-[#b8b8b5] lg:mb-[65px]; }
+  .section-heading { @apply font-display text-[48px] font-semibold leading-[.94] tracking-[-2.5px] sm:text-[58px] lg:text-[clamp(48px,5.4vw,86px)] lg:tracking-[-4px]; }
+  .section-heading span { @apply text-[#858682]; }
+  .button { @apply rounded-full border border-subtle px-5 py-3.5 text-[13px] font-semibold transition duration-300; }
+  .focus-ring { @apply focus:outline-none focus:ring-2 focus:ring-accent focus:ring-offset-2 focus:ring-offset-site; }
+}

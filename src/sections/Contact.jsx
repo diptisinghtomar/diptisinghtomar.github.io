@@ -1,0 +1,6 @@
+import SectionLabel from "../components/SectionLabel";
+import SectionHeading from "../components/SectionHeading";
+
+export default function Contact() {
+  return <section className="section" id="contact"><SectionLabel>08 / CONTACT</SectionLabel><div className="grid gap-[55px] lg:grid-cols-[1fr_.8fr] lg:gap-[100px]"><div><SectionHeading>Let's work<br /><span>together.</span></SectionHeading><p className="mt-6 max-w-[720px] text-[19px] leading-[1.65] text-[#d5d5d0]">Have a campaign, social account or content idea that needs an internet-native perspective?</p><a className="mt-[35px] inline-block border-b border-[#555] pb-2 text-[17px]" href="mailto:diptisinghtomar2003@gmail.com">diptisinghtomar2003@gmail.com <span className="text-accent">↗</span></a></div><div className="border-t border-subtle"><div className="border-b border-subtle py-[23px]"><small className="text-[9px] tracking-[1.5px] text-[#858682]">PHONE</small><a className="mt-2 block text-[14px] leading-[1.9] text-[#d0d0cc]" href="tel:+917848892237">+91 78488 92237</a></div><div className="border-b border-subtle py-[23px]"><small className="text-[9px] tracking-[1.5px] text-[#858682]">LOCATION</small><p className="mt-2 text-[14px] leading-[1.9] text-[#d0d0cc]">Jamshedpur, Jharkhand</p></div></div></div></section>;
+}
